@@ -1,4 +1,4 @@
-# airline_fatalities_analysis
+# Airline Fatalities Analysis
 Airline fatalities analysis
 
 This analysis addresses the lingering question of airline safety versus automobile safety when 
